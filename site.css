@@ -21,12 +21,12 @@ article, aside, canvas, details, embed,
 figure, figcaption, footer, header, hgroup, 
 menu, nav, output, ruby, section, summary,
 time, mark, audio, video {
-	margin: 3px;
-	padding: 0;
-	border: 0;
-	font-size: 100%;
-	font: inherit;
-	vertical-align: baseline;
+margin: 3px;
+padding: 0;
+border: 0;
+font-size: 100%;
+font: inherit;
+vertical-align: baseline;
 }
 /* HTML5 display-role reset for older browsers */
 article, aside, details, figcaption, figure, 
@@ -142,12 +142,12 @@ grid-template-columns: 1fr;
 .nav_block{
 
 
-	/*padding:100px;*/
-	list-style: none;
-	color: white;
-	background-color: #191309;
-	text-transform: capitalize;
-	line-height: 50px;
+/*padding:100px;*/
+list-style: none;
+color: white;
+background-color: #191309;
+text-transform: capitalize;
+line-height: 50px;
 }
 	
 .nav_block a{
@@ -155,13 +155,13 @@ grid-template-columns: 1fr;
 }
 
   .nav_item a {
-  	display: block;
-  	width:98%;
-  	height:100%;
+  display: block;
+ width:98%;
+height:100%;
   }
-	.nav_item a:hover{
-      color: #525252;
-	background-color: white;
+.nav_item a:hover{
+ color: #525252;
+background-color: white;
 
 }
 
@@ -174,11 +174,11 @@ grid-template-columns: 1fr;
     width: 1000px;
     margin: 0 auto;
 	}
-	.grid{
+.grid{
 		grid-template-columns: 1fr 1fr;
 	}
 
-	.nav_block{
+.nav_block{
 		grid-template-columns: 1fr 1fr 1fr;
 		
 	}
